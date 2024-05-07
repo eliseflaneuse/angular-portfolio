@@ -32,6 +32,7 @@
         border: none;
         padding: 0;
         cursor: pointer;
+        
       }
     }
   
@@ -50,5 +51,7 @@
   
     nav {
       display: flex;
+      justify-content: end;
+      margin-right: 15px;
     }
   }
